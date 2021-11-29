@@ -18,10 +18,16 @@ header section .social-networks ul {
 
 header section .social-networks ul li a {
     text-decoration: none;
-    margin-right: 10px;
+    /* margin-right: 10px; */
 }
 
 header {
     width: 100%;
     height: 140px;
+}
+
+header nav {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
 }

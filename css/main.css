@@ -18,7 +18,11 @@ header section .social-networks ul {
 
 header section .social-networks ul li a {
     text-decoration: none;
-    /* margin-right: 10px; */
+    margin-right: 8px;
+}
+
+header section .social-networks ul {
+    margin: 10px 0;
 }
 
 header {
